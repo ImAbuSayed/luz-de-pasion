@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Luz de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-pasion/) |
+| **Get License** | [Request Licensing for Luz de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `70ebb21c66c17cebe936dec48dd7e062e294b21f08ccebf95edd17d019459fcb` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
